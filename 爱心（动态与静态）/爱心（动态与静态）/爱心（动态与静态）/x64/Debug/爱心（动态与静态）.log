@@ -1,0 +1,5 @@
+﻿  源.cpp
+  静态爱心.cpp
+  正在生成代码...
+C:\Users\Administrator\Desktop\code-for-C-vs\爱心（动态与静态）\爱心（动态与静态）\源.cpp(56,23): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+  爱心（动态与静态）.vcxproj -> C:\Users\Administrator\Desktop\code-for-C-vs\爱心（动态与静态）\爱心（动态与静态）\x64\Debug\爱心（动态与静态）.exe
